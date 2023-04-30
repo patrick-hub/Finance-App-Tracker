@@ -23,6 +23,17 @@ ul {
   cursor: pointer;
   font-size: 1em;
 }
+
+.btn.logout {
+  
+  background: #fff;
+}
+
+.btn.logout:hover {
+color: #fff;
+background: RGB(247 134 12);
+}
+
 .btn:hover {
   background: RGB(242 169 90);
   color: #fff;
